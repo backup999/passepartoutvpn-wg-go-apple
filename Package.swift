@@ -23,7 +23,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "wg-go",
-            url: "https://github.com/passepartoutvpn/wg-go-apple/releases/download/\(version)/\(filename)",
+            url: "https://github.com/partout-io/wg-go-apple/releases/download/\(version)/\(filename)",
             checksum: checksum
         )
 
