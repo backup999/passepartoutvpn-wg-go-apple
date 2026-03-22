@@ -4,8 +4,8 @@
 import PackageDescription
 
 let filename = "wg-go.xcframework.zip"
-let version = "0.0.2025063103"
-let checksum = "de4985051c617cb504267cf0e238dc97773a81777d63c9318d175f87a11331b2"
+let version = "0.0.2025063104"
+let checksum = "30b1c8915e2fd4b691194e5c1148976153fc3d8abc6c96d20c90ac2db248622a"
 
 let package = Package(
     name: "wg-go-apple",
